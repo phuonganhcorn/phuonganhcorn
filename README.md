@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Hani Fares</h1>
+<h1 align="center">Hi 👋, I'm Phuong Anh Ngo</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=420&lines=A+software+engineer+with+true+passion)](https://git.io/typing-svg)
 
@@ -86,9 +86,4 @@ Here are some ideas to get you started:
 
 [name](filename 'h-fares.md')
 
-</details>
 
- ------
-Credit: [h-fares](https://github.com/h-fares)
-
-Last Edited on: 01/05/2022
