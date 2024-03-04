@@ -1,5 +1,7 @@
 ## Hi! I'm Phuong Anh Ngo
-I am a dedicated AI/ML Engineer with nearly two years of hands-on experience in developing cutting-edge solutions in artificial intelligence and machine learning. My expertise lies in building robust models and pipelines, particularly in the field of Natural Language Processing (NLP). I have a proven track record of delivering innovative solutions and collaborating effectively with cross-functional teams. 
+I am a dedicated AI/ML Engineer with nearly two years of hands-on experience in developing cutting-edge solutions in artificial intelligence and machine learning. My expertise lies in building robust models and pipelines, particularly in the field of Natural Language Processing (NLP). I have a proven track record of delivering innovative solutions and collaborating effectively with 
+cross-functional teams. 
+
 ---
 #### 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/faaacorn/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anh-ngo-phuong-081769252/) [![HuggingFace](https://img.shields.io/badge/HuggingFace-%23E4405F.svg?logoColor=yellow)](https://huggingface.co/Phanh2532)
