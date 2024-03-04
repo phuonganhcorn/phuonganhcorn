@@ -13,7 +13,7 @@ I am a dedicated AI/ML Engineer with nearly two years of hands-on experience in 
 #### 📊 GitHub Stats
 | 📊 General GitHub Stats         |Github Contributions  |
 |:---------------------|------------:|
-|<img src="https://github-readme-stats.vercel.app/api?username=phuonganhcorn&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="400" height="300"><br/>  |<img src="https://github-readme-streak-stats.herokuapp.com/?user=phuonganhcorn&theme=dark&hide_border=false" width="400" height="400"><br/>|
+|<img src="https://github-readme-stats.vercel.app/api?username=phuonganhcorn&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="400" height="300"><br/>  |<img src="https://github-readme-streak-stats.herokuapp.com/?user=phuonganhcorn&theme=dark&hide_border=false" width="400" height="450"><br/>|
 
 
 |🔝 My top contributed Repo          |Percentage of languges|
