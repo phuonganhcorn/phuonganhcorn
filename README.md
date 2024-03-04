@@ -13,9 +13,7 @@ I am a dedicated AI/ML Engineer with nearly two years of hands-on experience in 
 #### 📊 GitHub Stats
 |Tên folder            |Số lượng hình ảnh trong dataset  |Định dạng tên|
 |:---------------------|:------------------------------:|------------:|
-|<img src="https://github-readme-stats.vercel.app/api?username=phuonganhcorn&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="300" height="300"><br/>  
-|<img src="https://github-readme-streak-stats.herokuapp.com/?user=phuonganhcorn&theme=dark&hide_border=false" width="100" height="100"><br/>
-|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuonganhcorn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="100" height="100">|
+|<img src="https://github-readme-stats.vercel.app/api?username=phuonganhcorn&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="300" height="300"><br/>  |<img src="https://github-readme-streak-stats.herokuapp.com/?user=phuonganhcorn&theme=dark&hide_border=false" width="300" height="300"><br/>|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuonganhcorn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="300" height="300">|
 #### 🔝 My top contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=phuonganhcorn&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
