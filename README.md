@@ -18,7 +18,7 @@ I am a dedicated AI/ML Engineer with nearly two years of hands-on experience in 
 
 |🔝 My top contributed Repo          |Percentage of languges|
 |:---------------------|------------:|
-|<img src="https://github-contributor-stats.vercel.app/api?username=phuonganhcorn&limit=5&theme=dark&combine_all_yearly_contributions=true" width="400" height="300"><br/>| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuonganhcorn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="400" height="250"><br/>|
+|<img src="https://github-contributor-stats.vercel.app/api?username=phuonganhcorn&limit=5&theme=dark&combine_all_yearly_contributions=true" width="400" height="300"><br/>| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuonganhcorn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="350" height="250"><br/>|
 
 [![](https://visitcount.itsvg.in/api?id=phuonganhcorn&icon=0&color=2)](https://visitcount.itsvg.in)
 ---
