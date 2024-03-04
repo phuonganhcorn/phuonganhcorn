@@ -16,7 +16,7 @@ I am a dedicated AI/ML Engineer with nearly two years of hands-on experience in 
 #### ✍️ My favorite quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-#### 🔝 Top Contributed Repo
+#### 🔝 My top contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=phuonganhcorn&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
