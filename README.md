@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Making a Code Generator Chatbot for GAMA Platform](https://github.com/phuonganhcorn/Code-Generation)
 
-<h3 align="left">Connect with me: <a href="https://www.facebook.com/faaacorn/"></h3>
+<h3 align="left">Connect with me: <a href="https://www.facebook.com/faaacorn/" target="blank" rel="noreferrer"></h3>
 <p align="left">
 </p>
 
