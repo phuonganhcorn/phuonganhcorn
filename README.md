@@ -1,7 +1,8 @@
 <h2 align="center">Hi 👋, I'm Phuong Anh Ngo</h2>
 <h3 align="center">I'm an AI Engineer with almost 2 years of experience working and doing research in NLP and Computer Vision</h3>
 
-- 🔭 I’m currently working on [Making a Code Generator Chatbot for GAMA Platform](https://github.com/phuonganhcorn/Code-Generation)
+- 🔭 I’m currently working on [making a Code Generator Chatbot for GAMA Platform](https://github.com/phuonganhcorn/Code-Generation)
+
 
 - **Connect with me**:
   - [Facebook](https://www.facebook.com/faaacorn/)
