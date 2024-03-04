@@ -15,6 +15,10 @@ I am a dedicated AI/ML Engineer with nearly two years of hands-on experience in 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=phuonganhcorn&theme=dark&hide_border=false&**custom_width**=100&**custom_height**=300)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=phuonganhcorn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
+
+<img src="https://github-readme-stats.vercel.app/api?username=phuonganhcorn&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="500" height="300"><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=phuonganhcorn&theme=dark&hide_border=false" width="500" height="300"><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuonganhcorn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="500" height="300">
 #### 🔝 My top contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=phuonganhcorn&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
@@ -24,6 +28,3 @@ I am a dedicated AI/ML Engineer with nearly two years of hands-on experience in 
 #### ✍️ My favorite quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
