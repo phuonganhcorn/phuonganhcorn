@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working on [Making a Code Generator Chatbot for GAMA Platform](https://github.com/phuonganhcorn/Code-Generation)
 
-- **Connect with me**: [Facebook](https://www.facebook.com/faaacorn/) target="blank" 
+- **Connect with me**:
+  - [Facebook](https://www.facebook.com/faaacorn/)
+  - [Linkedln](https://www.linkedin.com/in/anh-ngo-phuong-081769252/) 
 <p align="left">
 </p>
 
